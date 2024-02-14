@@ -1,3 +1,13 @@
 these are text file genereated by labelimg software in the yolo formate.
 
-YOLO (You Only Look Once) is a popular object detection algorithm known for its speed and accuracy. In the context of image annotation, a YOLO extension typically refers to the integration of YOLO-based object detection capabilities into annotation software. This extension allows annotators to leverage YOLO's capabilities to quickly and accurately identify objects within images, streamlining the annotation process. By using a YOLO extension, annotators can benefit from the algorithm's ability to detect multiple objects in an image simultaneously, improving efficiency and annotation quality. Overall, integrating YOLO into annotation software enhances the annotation workflow, making it more efficient and effective for tasks such as training computer vision models.
+YOLO (You Only Look Once) is a popular object detection algorithm known for 
+its speed and accuracy. In the context of image annotation, a YOLO extension
+typically refers to the integration of YOLO-based object detection 
+capabilities into annotation software. This extension allows annotators
+to leverage YOLO's capabilities to quickly and accurately identify objects
+within images, streamlining the annotation process. By using a YOLO 
+extension, annotators can benefit from the algorithm's ability to detect 
+multiple objects in an image simultaneously, improving efficiency and annotation 
+quality. Overall, integrating YOLO into annotation software enhances the 
+annotation workflow, making it more efficient and effective for tasks 
+such as training computer vision models.
